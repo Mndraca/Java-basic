@@ -10,4 +10,6 @@
     age: 40
   };
   console.log(person);
-  let lastName = 'Komnenic';
+  let lastName = 'Komnenic'
+  console.log(lastName)
+  
